@@ -1,0 +1,3 @@
+C:/Users/efrai/CLionProjects/UVA_Ejercicios/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/efrai/CLionProjects/UVA_Ejercicios/cmake-build-debug/CMakeFiles/UVA_Ejercicios.dir
+C:/Users/efrai/CLionProjects/UVA_Ejercicios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
